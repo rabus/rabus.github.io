@@ -1,4 +1,4 @@
-# My name is Adam, welcome!
+### My name is Adam, welcome!
 
 I'm currently a Front Line Manager working at Regatta Limited distribution centre and a coder at heart when and where I can.
 
