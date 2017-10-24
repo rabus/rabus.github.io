@@ -1,34 +1,14 @@
 ## My name is Adam, welcome!
 
-I'm currently a Front Line Manager working at Regatta Limited distribution centre and a coder at heart in my free time.
+I'm currently a Front Line Manager working at Regatta Limited distribution centre and a coder at heart when and where I can.
 
-### Markdown
+### Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love working with people and supporting them throughout their careers. This is what drives me and helps spread the influence over.
 
-```markdown
-Syntax highlighted code block
+### Coder
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rabus/rabus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I dabble in different languaged and frameworks, primarily JavaScript, Java, Lua and Haxe. Love to prototype and experiment with new technologies.
 
 ### Support or Contact
 
