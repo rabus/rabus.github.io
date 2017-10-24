@@ -1,4 +1,4 @@
-## My name is Adam, welcome!
+# My name is Adam, welcome!
 
 I'm currently a Front Line Manager working at Regatta Limited distribution centre and a coder at heart when and where I can.
 
@@ -9,7 +9,3 @@ I love working with people and supporting them throughout their careers. This is
 ### Coder
 
 I dabble in different languaged and frameworks, primarily JavaScript, Java, Lua and Haxe. Love to prototype and experiment with new technologies.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
