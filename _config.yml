@@ -1,2 +1,6 @@
-theme: jekyll-theme-architect
+title: Adam Rabiega
+logo: /assets/img/logo.png
+description: Let's create something!
+show_downloads: false
 name: Adam Rabiega
+theme: jekyll-theme-minimal
