@@ -55,7 +55,7 @@
     prose-img:!mt-2 prose-headings:!mb-3
     prose-th:border prose-th:border-skin-line
     prose-td:border prose-td:border-skin-line
-    prose-h3:italic
+    prose-h3:not-italic
 
     
     prose-p:!text-skin-base prose-headings:!text-skin-base 

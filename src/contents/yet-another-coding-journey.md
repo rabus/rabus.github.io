@@ -13,7 +13,7 @@ description: Hi 👋, my name is Adam and I would like to welcome you to my blog
 
 <div>
   <img src="/assets/do_what_is_great.jpg" class="mx-auto mb-0 border-0" alt="coding dev illustration">
-  <span class="text-xs">Photo by <a href="https://unsplash.com/@martinshreder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martin Shreder</a> on <a href="https://unsplash.com/photos/5Xwaj9gaR0g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span>
+  <p class="text-xs no-underline mt-1">Photo by <a class="no-underline" href="https://unsplash.com/@martinshreder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martin Shreder</a> on <a class="no-underline" href="https://unsplash.com/photos/5Xwaj9gaR0g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
   
 </div>
 
