@@ -6,7 +6,7 @@ export const SITE = {
   desc: "A journey with code.",
   title: "(Re)solutions",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 3,
 };
 
