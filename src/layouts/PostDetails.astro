@@ -44,6 +44,16 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.svg`, Astro.url.origin)
       {tags.map(tag => <Tag name={tag} />)}
     </ul>
   </main>
+
+  <script
+    src="https://utteranc.es/client.js"
+    repo="rabus/rabus.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async
+  ></script>
+
   <Footer />
 </Layout>
 
