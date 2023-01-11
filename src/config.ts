@@ -1,10 +1,10 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://adamrabiega.com/",
+  website: "https://rabus.github.io/",
   author: "Adam Rabiega",
   desc: "A journey with code.",
-  title: "(Re)solutions",
+  title: "{Re}solutions",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,

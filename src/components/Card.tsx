@@ -12,6 +12,7 @@ const styles = {
   titleLink:
     "text-skin-accent font-medium text-lg underline-offset-4 decoration-dashed focus-visible:no-underline focus-visible:underline-offset-0 inline-block",
   titleHeading: "font-medium text-lg decoration-dashed hover:underline",
+  readMore: "align-right font-semibold",
 };
 
 export default function Card({ href, post, secHeading = true }: Props) {
@@ -25,7 +26,13 @@ export default function Card({ href, post, secHeading = true }: Props) {
         )}
       </a>
       <Datetime datetime={post.datetime} />
-      <p>{post.description}</p>
+      <p>
+        {post.description}{" "}
+        <span className={styles.readMore}>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href={href}>Read more</a>
+        </span>
+      </p>
     </li>
   );
 }
